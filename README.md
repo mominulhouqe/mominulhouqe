@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mominul Houqe</h1>
-<h3 align="center">A passionate frontend developer from Bangaldesh</h3>
+<h3 align="center">A passionate MERN Stack developer from Bangaldesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mominulhouqe&label=Profile%20views&color=0e75b6&style=flat" alt="mominulhouqe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/momin_houqe" target="blank"><img src="https://img.shields.io/twitter/follow/momin_houqe?logo=twitter&style=for-the-badge" alt="momin_houqe" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NodeJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
